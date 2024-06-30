@@ -1,2 +1,2 @@
 # Morse-Code
-A morse code encoder / decoder in X
+A morse code encoder / decoder in C
